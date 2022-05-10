@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+
+.home{
+   background: url(images/Captura\ de\ tela\ 2022-05-04\ 215419.png) no-repeat center;
+
+}
+
+strong{
+    text-transform: uppercase;
+    color: #32120B;
+    border: 5px solid #501D12;
+    padding:5px;
+    background-color: antiquewhite;
+    border-radius: 100px;
+}
+
+.quadrado{
+    text-align: center;
+    width: 50px;
+    background: rgb(214, 196, 34);
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color:rgb(214, 196, 34); 
+
+}
+
+.primeiro{
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #32120B;
+    border: 5px solid #501D12;
+    padding:5px;
+    background-color: antiquewhite;
+    border-radius: 100px;
+    width: 300px;
+    display: inline-block;
+}
+
+.segundo{
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #32120B;
+    border: 5px solid #501D12;
+    padding:5px;
+    background-color: antiquewhite;
+    border-radius: 100px;
+    width: 300px;
+    display:inline-block;
+}
+
+
+button{
+    color: #32120B;
+    border: 5px solid #501D12;
+    padding: 15px;
+    background-color: rgb(214, 196, 34);
+    font-size: 30px;
+    border-radius: 100px;
+
+}
