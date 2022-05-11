@@ -93,6 +93,14 @@ function checaVencedor(){
                 mudarCorQuadrado(quadrado3, quadrado5, quadrado7);
                 mudarVencedor(quadrado3);
                 return;
+                
+            }
+
+            if (checaSequencia(quadrado1, quadrado5, quadrado9)) {
+                mudarCorQuadrado(quadrado1, quadrado5, quadrado9);
+                mudarVencedor(quadrado9);
+                return;
+                
             }
 
 
